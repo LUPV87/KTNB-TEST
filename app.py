@@ -110,7 +110,7 @@ with st.sidebar:
 # ==========================================
 # THÀNH PHẦN 2: HEADER — VÙNG ĐỊNH HƯỚNG
 # ==========================================
-st.title("🛡️ Ứng dụng Phát Hiện Giao Dịch Gian Lận & Rủi Rõ")
+st.title("⚔ Ứng dụng Phát Hiện Giao Dịch Gian Lận & Rủi Ro")
 st.caption("Giải pháp phân loại nhị phân tự động nhận diện giao dịch bất thường (default = 1) dựa trên các thuộc tính ẩn danh X_1 đến X_14.")
 
 if uploaded_file is None:
